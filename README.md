@@ -5,7 +5,7 @@
   - Java
   - JavaScript
   - ...
-- No solution will be uploaded unless its beter than 75% of submissions in terms of time complexity at the time of creation
+- No solution will be uploaded unless its beter than 70% of submissions in terms of time complexity at the time of creation
 
 ## Find Me <img src="https://imgur.com/download/FpDFVjy" width="25"> 
 
