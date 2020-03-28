@@ -1,5 +1,0 @@
-class Solution {
-    func isPowerOfTwo(_ n: Int) -> Bool {
-        return n > 0 && (n & -n) == n;
-    }
-}
