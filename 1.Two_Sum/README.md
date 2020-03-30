@@ -13,11 +13,6 @@ Because nums[0] + nums[1] = 2 + 7 = 9,
 return [0, 1].
 ```
 
-## Solution 1
-
-
-Used in the implementations for: 
-
 ## Find Me <img src="https://imgur.com/download/FpDFVjy" width="25"> 
 
 - [Personal Website](https://williamambrozic.info)
