@@ -3,7 +3,7 @@ class Solution(object):
         """
         :type nums: List[int]
         :type target: int
-        :rtype: List[int]
+        :type: List[int]
         """
         hash = {}
         for a in range(len(nums)):
